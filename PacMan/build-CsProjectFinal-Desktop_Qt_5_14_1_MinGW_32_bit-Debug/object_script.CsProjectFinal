@@ -1,0 +1,11 @@
+cherry.o
+ghost.o
+main.o
+mainwindow.o
+map.o
+pellet.o
+player.o
+superpellet.o
+moc_ghost.o
+moc_mainwindow.o
+moc_player.o
